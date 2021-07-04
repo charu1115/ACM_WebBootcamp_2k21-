@@ -200,3 +200,19 @@ font-weight: bolder;
     padding: 15px 0;
     
 }
+@media(max-width:991px) {
+.newspaper
+{
+    width: 900px;
+}
+body{
+    overflow-x:hidden ;
+}
+}
+@media(max-width:850px) {
+    .newspaper
+    {
+        width: 700px;
+    }
+   
+    }
