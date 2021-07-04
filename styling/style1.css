@@ -136,7 +136,7 @@ margin-top: 10px;
 {
     background-color: black;
     width: 100%;
-    height: 50px;
+    height: 55px;
 }
 #logo-links1
 {
@@ -144,6 +144,19 @@ margin-top: 10px;
     width: 100%;
     height: 160px;
    
+}
+.newspaper
+{
+
+overflow: hidden;
+  width: 1500px;
+  height: 60px;
+  
+}
+.img-logo{
+
+  margin-left: 10px;
+  margin-right: 15px;
 }
 .recruitors
 {
